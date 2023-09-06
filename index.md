@@ -8,14 +8,14 @@ title: DREAM Project Site
 
 ## About Me
 
-#### Current Education: 
+**Current Education:**
 My name is Sammy Stoll (she/her), and I am a 2nd year masters student in the Data Science program at DePaul University in Chicago with an anticipated graduation in Summer 2024. 
 
-#### Previous Education: 
-I graduated with a Bachelor’s of Science with highest distinction in Psychology with minors in Human Relations and Criminology from The University of Iowa. 
+**Previous Education:**
+I graduated with a Bachelor’s of Science with highest distinction in Psychology with minors in Human Relations and Criminology from The University of Iowa. During my undergraduate career, I served as a Research Assistant for 3 years in a developmental psychopathology lab. 
 
-#### Current Employment / Projects:
-I have worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH) for 3 years after my undergraduate career. I now work as a Data Analyst in MGH’s Psychiatry Neurodevelopmental Genetics Unit (PGNU). 
+**Current Employment / Projects:**
+After my undergraduate career, I worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH). I now work as a Data Analyst in MGH’s Psychiatry Neurodevelopmental Genetics Unit (PGNU). 
 
 Publications from my career in research can be found below: 
 [Samantha Stoll - Google Scholar](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao)
@@ -31,9 +31,9 @@ Learn more about Dr. Ustun: [Dr. Ilyas Ustun](https://cds.cdm.depaul.edu/teacher
 
 My project focuses on X. 
 
-[My Final Report](files/finalreport.pdf)
+[Final Report](files/finalreport.pdf)
 
 ## Project Progress Reports
 
 Progress reports related to my project can be found here:
-[Sammy Stoll - Progress Reports](blog.html)
+[Progress Reports](blog.html)
