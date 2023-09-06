@@ -8,13 +8,24 @@ title: DREAM Project Site
 
 ## About Me
 
-My name is Sammy Stoll (she/her) and I am a 2-year masters student in the Data Science program at DePaul University. I graduated from The University of Iowa with a Bachelor's of Science with highest distinction in Psychology and minors in Criminology and Human Relations. 
+#### Current Education: 
+My name is Sammy Stoll (she/her), and I am a 2nd year masters student in the Data Science program at DePaul University in Chicago with an anticipated graduation in Summer 2024. 
 
-I worked full-time as a Clinical Research Coordinator in Massachussetts General Hospital's Psychiatry Department for two years, and in the Psychiatry Neurodevelopmental Genetics Unit (PGNU) for two years. I currently work as a Data Analyst for the Dunn Lab within PNGU investigating X. 
+#### Previous Education: 
+I graduated with a Bachelor’s of Science with highest distinction in Psychology with minors in Human Relations and Criminology from The University of Iowa. 
+
+#### Current Employment / Projects:
+I have worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH) for 3 years after my undergraduate career. I now work as a Data Analyst in MGH’s Psychiatry Neurodevelopmental Genetics Unit (PGNU). 
+
+Publications from my career in research can be found below: 
+[Samantha Stoll - Google Scholar](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao)
 
 ## About My Advisor
 
-My advisor for my DREAM project is Dr. Ilyas Ustun from DePaul University. He is currently the Director for the DePaul Center for Data Science. Dr. Ustun's research focuses in X. 
+My advisor for my DREAM project is Dr. Ilyas Ustun from DePaul University. Dr. Ustun is currently the Director for the DePaul Center for Data Science and teaches master-level courses including Adnaced Machine Learning and Foundations of Data Science. His research focuses on applied machine learning, health analytics, and transportation analysts. 
+
+Learn more about Dr. Ustun: [Dr. Ilyas Ustun](https://cds.cdm.depaul.edu/teachers/ilyas-ustun/
+)
 
 ## About My Project
 
@@ -22,6 +33,7 @@ My project focuses on X.
 
 [My Final Report](files/finalreport.pdf)
 
-## My Blog
+## Project Progress Reports
 
-[My Blog](blog.html)
+Progress reports related to my project can be found here:
+[Sammy Stoll - Progress Reports](blog.html)
