@@ -164,7 +164,7 @@ img {
 }
 
 .site-info {
-  float: center;
+  text-align: center;
 
   @include mobile {
     float: none;
@@ -175,7 +175,7 @@ img {
 
 .site-name {
   margin: 0;
-  float: center;
+  text-align: center;
   color: $black;
   cursor: pointer;
   font-family: $georgia;
@@ -186,7 +186,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  float: center;
+  text-align: center;
   color: $darkGray;
   font-size: 20px;
 
@@ -196,7 +196,7 @@ img {
 }
 
 .site-avatar {
-  float: center;
+  float: left;
   width: 70px;
   height: 70px;
   border-radius: 50%;
