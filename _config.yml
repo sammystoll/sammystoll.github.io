@@ -9,7 +9,7 @@ name: Sammy Stoll
 description: DREAM Project 2023
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://sammystoll.github.io/images/Sammy Stoll Headshot.jpeg
+avatar: https://sammystoll.github.io/images/IMG-7496.jpg
 
 #
 # Flags below are optional
@@ -18,8 +18,8 @@ avatar: https://sammystoll.github.io/images/Sammy Stoll Headshot.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: sstoll2@depaul.edu
-  github: 
-  ORCID: 
+  github: sammystoll
+  ORCID: 0000-0002-4314-7673
   rss: # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
