@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $DarkSeaGreen;
-  font: 18px/1.4 $helvetica;
+	background: $myGreen;
+  font: 18px/1.4 $myFont;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $myFont;
   color: $darkerGray;
   font-weight: bold;
 
@@ -192,9 +192,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $black;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $myFont;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -202,7 +202,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $darkGray;
   font-size: 16px;
 
   @include mobile {
@@ -213,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $myFont;
   font-size: 18px;
 
   @include mobile {
