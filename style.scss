@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $white;
   }
 }
 
@@ -87,7 +87,7 @@ ul {
 }
 
 ol {
-  list-style-type: decimal;
+  list-style-type: square;
 }
 
 ol ul, ul ol, ul ul, ol ol {
@@ -233,7 +233,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $white;
     }
   }
 }
