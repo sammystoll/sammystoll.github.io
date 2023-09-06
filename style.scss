@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
-  color: $black;
+  color: $darkGray;
 }
 
 .container {
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Lucida Console", "Courier New", monospace;
-  color: $darkGreen;
+  font-family: $helveticaNeue;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -87,7 +87,7 @@ ul {
 }
 
 ol {
-  list-style-type: square;
+  list-style-type: decimal;
 }
 
 ol ul, ul ol, ul ul, ol ol {
@@ -95,7 +95,7 @@ ol ul, ul ol, ul ul, ol ol {
 }
 
 ul ul, ol ul {
-  list-style-type: square;
+  list-style-type: circle;
 }
 
 em, i {
