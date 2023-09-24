@@ -18,7 +18,7 @@ I received my Bachelor’s of Science with highest distinction in Psychology alo
 After my undergraduate career, I worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH) in the Department of Psychiatry and Center for Genomic Medicine (CGM). I now work as a Data Analyst at MGH within CGM and the Psychiatric Neurodevelopmental Genetics Unit (PNGU). 
 
 **Publications From My Career in Research:**  
-[Samantha Stoll - Google Scholar](http://www.google.com](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao){: .button}
+[Samantha Stoll - Google Scholar](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao){: .button}
 
 ## About My Advisor
 
