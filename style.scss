@@ -114,11 +114,12 @@ img {
   background-color: #009999; /* My teal */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 23px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
+  border-radius: 12px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -210,7 +211,6 @@ img {
   float: left;
   width: 70px;
   height: 70px;
-  border-radius: 50%;
   margin-right: 15px;
 
   @include mobile {
