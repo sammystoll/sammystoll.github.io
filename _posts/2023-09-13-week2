@@ -1,0 +1,6 @@
+---
+layout: post
+title: Week 2
+---
+
+This week, I began reading literature on depression in Parkinson's disease and machine learning methods applied within this space, as I would love to integrate my passion for mental health and my newfound love of data science into my project. I also searched for any research using longitudinal data for Parkinson's disease and tracking changes in depression symptomology over time. It seems there is no, or very little, published in this area, especially methods involving *_longitudinal_* machine learning models. I am very excited about the possibility of my project having a *_positive_* focus on Parkinson's disease progression by predicting **decreases** in Parkinson's-related depression. Therefore, by identifying protective factors or potential places for intervention to reduce the risk of worsening depression may decrease disease burden, increase quality of life, and possibly for those diagnosed with Parkinson's. 
