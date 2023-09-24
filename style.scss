@@ -20,7 +20,7 @@ html {
 body {
 	background: $gray;
   font: 18px/1.4 $georgia;
-  color: $darkGray;
+  color: $black;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $georgia;
-  color: $darkerGray;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $black;
 }
 
 p {
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $black;
+    color: $myBlue;
   }
 }
 
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $black;
 }
 
 // Specify the color of the selection
@@ -187,7 +187,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   text-align: center;
-  color: $darkGray;
+  color: $black;
   font-size: 20px;
 
   @include mobile {
@@ -197,8 +197,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 5px;
-  height: 5px;
+  width: 70px;
+  height: 70px;
   border-radius: 50%;
   margin-right: 15px;
 
@@ -257,9 +257,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $black;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $black;
     font-size: 22px;
     font-style: italic;
   }
