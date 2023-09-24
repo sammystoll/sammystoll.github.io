@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $myGreen;
+	background: $gray;
   font: 18px/1.4 $georgia;
   color: $darkGray;
 }
@@ -196,7 +196,7 @@ img {
 }
 
 .site-avatar {
-  float: center;
+  float: left;
   width: 5px;
   height: 5px;
   border-radius: 50%;
@@ -228,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $myBlue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
