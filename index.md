@@ -9,20 +9,20 @@ title: DREAM Project Site
 ## About Me
 
 **Current Education:**
-My name is Sammy Stoll (she/her), and I am a 2nd year masters student in the Data Science program at DePaul University in Chicago with an anticipated graduation in Summer 2024. 
+My name is Sammy Stoll (she/her), and I am a 2nd year masters student in the Data Science program at DePaul University in Chicago with a concentration in Healthcare. I have an anticipated graduation of Summer 2024. 
 
 **Previous Education:**
-I graduated with a Bachelor’s of Science with highest distinction in Psychology with minors in Human Relations and Criminology from The University of Iowa. During my undergraduate career, I served as a Research Assistant for 3 years in a developmental psychopathology lab. 
+I received my Bachelor’s of Science with highest distinction in Psychology along with minors in Human Relations and Criminology from The University of Iowa. During my undergraduate career, I served as a Research Assistant for 3 years in a developmental psychopathology lab and completed an honors thesis project. 
 
-**Current Employment / Projects:**
-After my undergraduate career, I worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH). I now work as a Data Analyst in MGH’s Psychiatry Neurodevelopmental Genetics Unit (PGNU). 
+**Current Employment:**
+After my undergraduate career, I worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH) in the Department of Psychiatry and Center for Genomic Medicine (CGM). I now work as a Data Analyst at MGH within CGM and the Psychiatric Neurodevelopmental Genetics Unit (PNGU). 
 
-Publications from my career in research: 
+**Publications From My Career in Research:**  
 [Samantha Stoll - Google Scholar]([http://www.google.com](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao)){: .button}
 
 ## About My Advisor
 
-My advisor for my DREAM project is Dr. Ilyas Ustun from DePaul University. Dr. Ustun is currently the Director for the DePaul Center for Data Science and teaches master-level courses including Adnaced Machine Learning and Foundations of Data Science. His research focuses on applied machine learning, health analytics, and transportation analysts. 
+My DREAM project advisor is Dr. Ilyas Ustun from DePaul University. Dr. Ustun is currently the Director for the DePaul Center for Data Science and teaches master-level courses including Adnaced Machine Learning and Foundations of Data Science. His research focuses on applied machine learning, health analytics, and transportation analysts. 
 
 [Learn more about Dr. Ustun](https://cds.cdm.depaul.edu/teachers/ilyas-ustun/
 ){: .button}
