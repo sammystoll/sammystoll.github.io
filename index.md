@@ -18,14 +18,13 @@ I received my Bachelor’s of Science with highest distinction in Psychology alo
 After my undergraduate career, I worked full-time as a Clinical Research Coordinator at Massachusetts General Hospital (MGH) in the Department of Psychiatry and Center for Genomic Medicine (CGM). I now work as a Data Analyst at MGH within CGM and the Psychiatric Neurodevelopmental Genetics Unit (PNGU). 
 
 **Publications From My Career in Research:**  
-[Samantha Stoll - Google Scholar]([http://www.google.com](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao)){: .button}
+[Samantha Stoll - Google Scholar](http://www.google.com](https://scholar.google.com/citations?user=6rJhn4sAAAAJ&hl=en&oi=ao){: .button}
 
 ## About My Advisor
 
 My DREAM project advisor is Dr. Ilyas Ustun from DePaul University. Dr. Ustun is currently the Director for the DePaul Center for Data Science and teaches master-level courses including Adnaced Machine Learning and Foundations of Data Science. His research focuses on applied machine learning, health analytics, and transportation analysts. 
 
-[Learn more about Dr. Ustun](https://cds.cdm.depaul.edu/teachers/ilyas-ustun/
-){: .button}
+[Learn more about Dr. Ustun](https://cds.cdm.depaul.edu/teachers/ilyas-ustun/){: .button}
 
 ## About My Project
 
