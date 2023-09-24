@@ -110,6 +110,17 @@ img {
   max-width: 100%;
 }
 
+.button {
+  background-color: #009999; /* My teal */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
