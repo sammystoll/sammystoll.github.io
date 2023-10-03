@@ -1,0 +1,6 @@
+---
+layout: post
+title: Week 4
+---
+
+This week, my primary focus was exploring and cleaning the data I want to use in my model. This included computing depression change scores for Parkinson's participants, accounting for the COVID-19 pandemic by only including responses at the onset of the pandemic and later, and selecting, cleaning, and joining other longitudinal surveys that can be included in my model to help predict the change scores. I then computed some sample descriptives on my "final" sample set to get a sense of the participants and how they differ from "healthy" participants. Given the size and number of surveys taken by participants, this was a semi-tedious and time-consuming process. 
