@@ -30,7 +30,7 @@ My DREAM project advisor is Dr. Ilyas Ustun from DePaul University. Dr. Ustun is
 
 My project focuses on better understanding what factors may lead to the improvement or worsening of depression symptoms in individuals with Parkinson's disease through machine learning methods. 
 
-[Final Report](files/DREAM Main Text_2024-03-22.pdf){: .button}
+[Final Report](./files/DREAM Main Text_2024-03-22.pdf){: .button}
 
 ## Project Progress Reports
 
